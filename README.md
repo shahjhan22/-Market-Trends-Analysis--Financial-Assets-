@@ -13,6 +13,9 @@ This project, "Market Trends Analysis - Financial Assets," is an interactive Pow
 ## Project Overview
 
 The goal of this project is to create a comprehensive dashboard that allows investors and financial analysts to make informed, data-driven decisions. By analyzing historical data, this dashboard helps identify market trends, optimize investment strategies, and project potential returns.
+## Project Demo
+https://github.com/user-attachments/assets/82c16cdd-cb60-49df-94e2-7d765c4b950d
+
 
 ### Key Features
 
